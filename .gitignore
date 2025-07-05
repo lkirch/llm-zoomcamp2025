@@ -195,5 +195,10 @@ cython_debug/
 
 #qdrant
 qdrant_storage/*
+.lock
 
+#sqlite
+storage.sqlite
 
+#duckdb
+*.duckdb
