@@ -204,3 +204,5 @@ storage.sqlite
 *.duckdb
 
 .DS_Store
+
+meta.json
