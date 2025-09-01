@@ -46,6 +46,12 @@ collect chat history and user feedback.
 
 
 # Notes
+* chat_starter/chat.py: Basic, minimal, starter code.
+* code/chat.py: Instrumented, advanced code.
+
+* You will need to start the phoenix server before starting the streamlit app
+    * phoenix serve
+    * streamlit run chat.py
 
 * Notes from [2024 edition](../cohorts/2024/04-monitoring/)
 * Did you take notes? Add them above this line (Send a PR with *links* to your notes)
