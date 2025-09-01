@@ -13,12 +13,12 @@
 - Using Qdrant as the vestor database
 
 
-#### [Workshop: Open-Source Data Ingestion](cohorts/2025/workshops/dlt.md)
+#### [Workshop: Open-Source Data Ingestion](dlt-workshop/dlt.md)
 
 - Using `dlt` for ingesting data for RAG
 
 
-#### [Module A: Agents (bonus)](0a-agents/)
+#### [Module A: Agents](rag-agent-workshop/README.md)
 
 - Adding Agentic functionality to RAG
 - Function calling
