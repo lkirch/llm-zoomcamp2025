@@ -53,5 +53,11 @@ collect chat history and user feedback.
     * phoenix serve
     * streamlit run chat.py
 
+* To Access the Streamlit UI:
+    * http://127.0.0.1:8501/
+
+*  To Access the Phoenix UI:
+    * Open http://localhost:6006 in your browser.
+
 * Notes from [2024 edition](../cohorts/2024/04-monitoring/)
 * Did you take notes? Add them above this line (Send a PR with *links* to your notes)
